@@ -1,1 +1,1 @@
-new activity
+echo " my first git activity"
